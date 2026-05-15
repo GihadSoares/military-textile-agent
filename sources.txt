@@ -1,0 +1,23 @@
+# Military Textile Intelligence Agent - Source URLs
+# Add one URL per line. Lines starting with # are comments.
+# You can add/remove URLs freely - the agent will scrape all of them.
+
+# --- Defense & Military News ---
+https://www.defense-aerospace.com/
+https://www.janes.com/
+https://www.defensenews.com/
+https://breakingdefense.com/
+
+# --- Textile & Materials Industry ---
+https://www.textileworld.com/
+https://www.fibre2fashion.com/
+https://www.innovationintextiles.com/
+https://www.technicaltextile.net/
+
+# --- Advanced Materials & Polymers ---
+https://www.materialstoday.com/
+https://compositesworld.com/
+
+# --- Parachute & Aerial Systems ---
+https://www.spacewar.com/
+https://www.airforce-technology.com/
